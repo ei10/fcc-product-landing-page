@@ -1,0 +1,37 @@
+body {
+  padding-top: 50px;
+}
+
+#features {
+  background-color: #38685d;
+}
+
+iframe {
+  border-radius: 30px;
+}
+
+#pricing {
+  background-color: #0f4f41;
+}
+
+.card {
+  border-radius: 25px;
+}
+
+#newsletter {
+  background-color: #26a589;
+}
+
+#submit {
+  background-color: #f6c225;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: #212529;
+  color: white;
+}
+
+footer p {
+  margin-top: 1rem;
+}
